@@ -1,10 +1,10 @@
 import '@styles/index.css'
-import Card from './components/Card'
+import Pokemons from './components/Pokemons'
 
 function App() {
   return (
     <>
-    <Card/>
+    <Pokemons/>
     </>
   )
 }
